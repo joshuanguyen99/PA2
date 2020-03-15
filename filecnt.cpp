@@ -6,7 +6,7 @@
 
 using namespace std;
 
-static double versionNum = 1.2;
+static double versionNum = 1.2; // Version number
 
 int main(int argc, char* argv[])
 {   
